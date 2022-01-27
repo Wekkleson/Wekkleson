@@ -37,7 +37,7 @@ will bring you joy and fullfillment.</p>
     </center>
     
     <center>
- <a href="index.html">Home</a>
+ <a href="https://friendsofthefilingcabinet.neocities.org/">Free yourself</a>
 </center>
 
     
